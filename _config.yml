@@ -42,12 +42,12 @@ author:
   bitbucket: # Username
   codepen: # Username
   dribbble: # Username
-  github: "DrRochana998"
+  github: #Username
   kaggle: # Username  
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky: "bsky.app" # Replace this with you Bluesky username
+  bluesky: # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
