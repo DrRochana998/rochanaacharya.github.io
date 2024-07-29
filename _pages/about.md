@@ -19,6 +19,7 @@ vaccine.
 Worked as an inpatient medical officer at Chirayu National Hospital, Nepal.
 Worked as a primary care physician for MedEx, focused on providing premium care especially to
 foreigners in Nepal.
+
 **My 2030 goal:** Be an advocate for health in a global platform with strong background in clinical and evidence-based
 medicine. An active medical entrepreneur touching peoples life in and outside Nepal.
 
