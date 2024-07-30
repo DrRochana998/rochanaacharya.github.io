@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Superior mesenteric artery syndrome mimicking gastric outlet obstruction: a case report and a literature review"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-02-17-superior-mesenteric-artery-syndrome
+excerpt: "Superior mesenteric artery (SMA) syndrome, an uncommon cause of intestinal obstruction, may present with clinical features mimicking gastric outlet obstruction."
+date: 2023
+venue: "Annals of Medicine & Surgery"
+paperurl: "https://journals.lww.com/annals-of-medicine-and-surgery/fulltext/2023/04000/superior_mesenteric_artery_syndrome_mimicking.55.aspx"
+citation: "Khanal, B., Panthi, S., Bhattarai, R., Khatiwada, P., Acharya, R., Neupane, D., Yadav, P., Sharma, A., Pokharel, L., & Basnet, U. (2023)."
+status: "published"
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
