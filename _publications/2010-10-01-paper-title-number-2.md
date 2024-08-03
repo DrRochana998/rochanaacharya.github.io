@@ -1,5 +1,5 @@
 ---
-title: "S2529 Clawing the Colon: Decoding the Enigma of Cat Scratch Pattern"
+title: "S2529 Clawing the Colon: Decoding the Enigma of Cat Scratch Pattern"
 collection: publications
 permalink: /publication/2023-10-01-clawing-the-colon
 excerpt: "Cat scratch colon (CSC) is an endoscopic phenomenon characterized by distinctive bright red linear marks resembling a cat's scratch, primarily observed in the ascending colon or cecum. This unique entity is believed to be caused by barotrauma resulting from the insufflation of air into a colon with preexisting altered compliance. The discovery of CSC as a rare finding was first reported in 2007. Here we present an interesting case of CSC finding."
